@@ -103,8 +103,8 @@ The [AnimatedGradientBorder](cci:2://file:///f:/Projects/Flutter/animated_gradie
 | -------------- | ------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | `child`        | `Widget` (required) | -                                                        | The widget to display inside the gradient border                             |
 | `colors`       | `List<Color>`       | `[Colors.transparent, Colors.white, Colors.transparent]` | List of colors for the gradient loop                                         |
-| `borderWidth`  | `double`            | `2.0`                                                    | Thickness of the border line                                                 |
-| `borderRadius` | `double`            | `12.0`                                                   | Corner radius for the border                                                 |
+| `borderWidth`  | `double`            | `0.0`                                                    | Thickness of the border line                                                 |
+| `borderRadius` | `double`            | `0.0`                                                    | Corner radius for the border                                                 |
 | `speed`        | `Duration`          | `Duration(seconds: 2)`                                   | How fast the gradient rotates (seconds per full rotation)                    |
 | `glowSigma`    | `double?`           | `null`                                                   | Controls the glow effect (set to 0 to disable)                               |
 | `stops`        | `List<double>?`     | `null`                                                   | Controls the distribution of colors in the gradient (e.g.,`[0.0, 0.5, 1.0]`) |
