@@ -2,7 +2,7 @@
 
 A Simple Flutter package that provides animated gradient borders for widgets with customizable colors, shapes, and animation controls like speed, gradient stops etc.
 
-![Animated Gradient Border Preview](screenshots/preview.gif)
+![](screenshots/preview.gif)
 
 ## Installation 💻
 

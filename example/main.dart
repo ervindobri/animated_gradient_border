@@ -1,4 +1,4 @@
-import 'package:animated_gradient_border/animated_gradient_border.dart';
+import 'package:animated_gradient_border/src/animated_gradient_border_widget.dart';
 import 'package:flutter/material.dart';
 
 class GradientBorderExample extends StatelessWidget {

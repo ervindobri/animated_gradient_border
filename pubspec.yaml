@@ -1,14 +1,19 @@
 name: animated_gradient_border
-description: "A simple package to implement animated gradient borders to any container."
+description: "An easily customizable, animated gradient border widget for Flutter."
 version: 0.1.0
 homepage: https://github.com/ervindobri/
 repository: https://github.com/ervindobri/animated_gradient_border
 issue_tracker: https://github.com/ervindobri/animated_gradient_border/issues
-documentation:
+topics:
+  - flutter
+  - widget
+  - animation
+  - gradient
+  - border
 
 environment:
-  sdk: ">=3.3.1 <4.0.0"
-  flutter: ">=1.17.0"
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
 
 dependencies:
   flutter:
