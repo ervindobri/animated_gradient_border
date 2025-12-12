@@ -97,7 +97,7 @@ To customize the AnimatedGradientBorder we have many options:
 
 ## Parameters
 
-The [AnimatedGradientBorder](cci:2://file:///f:/Projects/Flutter/animated_gradient_border/lib/animated_gradient_border.dart:5:0-45:1) widget supports the following customization options:
+The AnimatedGradientBorder widget supports the following customization options:
 
 | Property       | Type                | Default Value                                            | Description                                                                  |
 | -------------- | ------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------- |
