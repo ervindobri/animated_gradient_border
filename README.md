@@ -1,3 +1,7 @@
+# Like this package? 
+<a href="https://buymeacoffee.com/ervindobri"><img width="300" height="72" alt="image" src="https://github.com/user-attachments/assets/c188303f-51ca-4963-b842-17a099b330a2" /></a>
+
+
 # Animated Gradient Border ✨
 
 A Simple Flutter package that provides animated gradient borders for widgets with customizable colors, shapes, and animation controls like speed, gradient stops etc.
